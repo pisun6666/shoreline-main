@@ -2,3 +2,5 @@
 ---
 Work in progress 1.20.4 utility mod for 2b2t. Release soon.
 https://discord.gg/97xsMYXEMW
+
+old copy of shoreline repository
